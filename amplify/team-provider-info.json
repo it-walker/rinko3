@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-rinko3-staging-115826-authRole",
+      "UnauthRoleArn": "arn:aws:iam::229196947520:role/amplify-rinko3-staging-115826-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::229196947520:role/amplify-rinko3-staging-115826-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-rinko3-staging-115826-deployment",
+      "UnauthRoleName": "amplify-rinko3-staging-115826-unauthRole",
+      "StackName": "amplify-rinko3-staging-115826",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:229196947520:stack/amplify-rinko3-staging-115826/dc4a3160-48be-11ee-9b13-0e7f3d7f773b",
+      "AmplifyAppId": "d2l27tjfp5vec4"
+    }
+  }
+}
